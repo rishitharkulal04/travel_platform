@@ -52,10 +52,10 @@ Instead of manually searching multiple websites, travellers can use a unified in
 
 The team collaborates to develop, integrate, test, and demonstrate the RouteRecover AI platform.
 
-### Team Leader Links
+### Team Member Links
 
-- **GitHub:** [abhisheksuvarna782-coder](https://github.com/abhisheksuvarna782-coder)
-- **LinkedIn:** [Abhishek Suvarna](https://www.linkedin.com/in/abhishek-suvarna-1bb2b6335/)
+- **GitHub:** [Rishitha R Kulal](https://github.com/rishitharkulal04)
+- **LinkedIn:** [Rishitha R](https://www.linkedin.com/in/rishitha-r-6940b2375/)
 
 ---
 
